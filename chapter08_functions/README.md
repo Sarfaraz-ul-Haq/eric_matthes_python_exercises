@@ -37,8 +37,6 @@
    "Santiago, Chile"
    Call your function with at least three city-country pairs, and print the values
    that are returned.
-   (continued)
-   142 Chapter 8
 
 7. # Album
 
