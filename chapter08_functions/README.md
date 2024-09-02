@@ -17,7 +17,6 @@
    sentence summarizing the size of the shirt and the message printed on it.
    Call the function once using positional arguments to make a shirt. Call the
    function a second time using keyword arguments.
-   Functions 137
 
 4. # Large Shirts
 
